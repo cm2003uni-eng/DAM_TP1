@@ -3,7 +3,7 @@
 [cite_start]**Curso:** Desenvolvimento de Aplicações Móveis (DAM) [cite: 3]
 **Estudante:** 50950 // Carlos Miguel Vieira D' Almeida Séca de Ceita
 **Data:** 14/03/2026
-**Repositório URL:** [INSERIR O TEU LINK AQUI]
+**Repositório URL:** https://github.com/cm2003uni-eng/DAM_TP1/tree/main
 
 ## 1. Introduction
 O propósito deste trabalho foi familiarizar-me com o desenvolvimento em Kotlin e Android. O foco inicial incidiu em tipos básicos e controlo de fluxo, evoluindo para a criação de uma aplicação "Hello World" no Android Studio e exploração de conceitos de Programação Orientada a Objetos.
