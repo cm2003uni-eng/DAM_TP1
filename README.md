@@ -61,7 +61,7 @@ Assegurei que a IA não fosse usada na secção [AC NO, AI NO].
 Utilizei Git local e remoto (GitHub).
 
 ## 13. Difficulties and Lessons Learned
-O maior desafio foi compreender a natureza "lazy" das sequências em Kotlin e a gestão de restrições (Constraints) no design Android para diferentes orientações.
+
 
 ## 14. Future Improvements
 Pretendo implementar persistência de dados (Room) para guardar localizações meteorológicas favoritas.
